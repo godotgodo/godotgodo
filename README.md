@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software developer and student. I work on web technologies and artificial intelligence.
+I am a Information Systems Engineer. I work on web technologies and artificial intelligence.
 
 📫 How to reach me: [From My Website](https://www.godotgodo.me)
 
